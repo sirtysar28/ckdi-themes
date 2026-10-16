@@ -1,0 +1,21 @@
+/*
+Theme Name: CKDI - Cipta Karya Digital Indonesia
+Theme URI: https://www.ciptakaryadigital.id
+Author: Cipta Karya Digital Indonesia
+Author URI: https://www.ciptakaryadigital.id
+Description: Theme WordPress custom untuk CKDI — digital agency landing page. Elementor-ready (widget kustom CKDI), footer dikelola via Widgets & Menus, navbar via WP Menu, chatbot AI Groq, tombol WhatsApp, dark/light mode. Semua konten homepage dapat diedit penuh via Elementor.
+Version: 1.1.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+Compatible PHP 8.3: yes
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ckdi
+Tags: custom-menu, custom-logo, featured-images, threaded-comments, translation-ready, dark, one-column, portfolio
+*/
+
+/*
+Style utama theme di-enqueue dari assets/css/main.css
+File ini hanya berisi header theme WordPress.
+*/

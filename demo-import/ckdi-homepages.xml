@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>CKDI Demo</title>
+	<link>https://www.ciptakaryadigital.id</link>
+	<description>CKDI — Cipta Karya Digital Indonesia (Demo Content)</description>
+	<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+	<language>id-ID</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.ciptakaryadigital.id</wp:base_site_url>
+	<wp:base_blog_url>https://www.ciptakaryadigital.id</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@ciptakaryadigital.id]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<item>
+		<title>Beranda</title>
+		<link>https://www.ciptakaryadigital.id/beranda/</link>
+		<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.ciptakaryadigital.id/?page_id=9101</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9101</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-15 08:10:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-15 08:10:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[beranda]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key><wp:meta_value><![CDATA[builder]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key><wp:meta_value><![CDATA[wp-page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key><wp:meta_value><![CDATA[3.25.0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[default]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"56c9d31","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d00c89a","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"61c9428","elType":"widget","widgetType":"ckdi_hero","settings":{"badge_text":"Solusi Digital Terdepan di Indonesia","title_line1":"Wujudkan","title_highlight":"Transformasi Digital","title_line2":"Bisnis Anda","description":"Kami menghadirkan solusi digital premium — mulai dari website profesional, aplikasi mobile, hingga strategi pemasaran digital untuk membawa bisnis Anda ke level berikutnya.","btn1_text":"Mulai Proyek","btn1_link":{"url":"#contact","is_external":"","nofollow":""},"btn2_text":"Lihat Portofolio","btn2_link":{"url":"#portfolio","is_external":"","nofollow":""},"stats":[{"value":"200","suffix":"+","label":"Proyek Selesai","animate":"yes"},{"value":"150","suffix":"+","label":"Klien Puas","animate":"yes"},{"value":"5.0","suffix":"","label":"Rating ★","animate":""}],"video_url":"https://videos.pexels.com/video-files/7649698/7649698-uhd_2560_1440_24fps.mp4","video_url2":"https://videos.pexels.com/video-files/7053428/7053428-sd_960_540_24fps.mp4","floats":[{"icon":"🌐","title":"Web Development"},{"icon":"📱","title":"Mobile App"},{"icon":"🎨","title":"UI/UX Design"},{"icon":"🤖","title":"AI Solution"},{"icon":"📊","title":"Digital Marketing"},{"icon":"🔐","title":"Security"}]},"elements":[]}],"isInner":false}],"isInner":false},{"id":"9702d2a","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7d6dc82","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"353dcff","elType":"widget","widgetType":"ckdi_services","settings":{"label":"Layanan Kami","title":"Solusi Digital untuk Setiap Kebutuhan","subtitle":"Dari konsep hingga eksekusi, kami siap menjadi partner digital terpercaya untuk bisnis Anda","cards":[{"image":{"url":"https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop","id":""},"icon":"🌐","name":"Web Development","detail":"Website responsif & performa tinggi dengan teknologi modern. Dari landing page hingga platform e-commerce kompleks.","tag":"React · Next.js · Laravel","modal_desc":"Kami membangun website dan web application dengan standar enterprise. Setiap proyek dimulai dari riset mendalam, desain arsitektur yang solid, hingga implementasi kode berkualitas tinggi. Kami memastikan website Anda cepat, aman, dan scalable untuk mendukung pertumbuhan bisnis.","modal_features":"Landing Page & Company Profile\nE-Commerce & Marketplace\nSistem Manajemen (CMS/ERP/CRM)\nWeb Application Custom\nAPI Development & Integration\nPerformance Optimization & SEO\nHosting & Maintenance"},{"image":{"url":"https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop","id":""},"icon":"📱","name":"Mobile App","detail":"Aplikasi mobile native & cross-platform untuk iOS dan Android dengan UI/UX yang memukau.","tag":"Flutter · React Native · Swift","modal_desc":"Dari ide hingga launch di App Store dan Google Play. Kami mengembangkan aplikasi mobile dengan performa tinggi dan pengalaman pengguna yang seamless. Baik native maupun cross-platform, kami memastikan aplikasi Anda siap bersaing di pasar.","modal_features":"Aplikasi iOS & Android Native\nCross-Platform (Flutter/React Native)\nUI/UX Mobile Design\nPush Notification & Real-time Features\nIntegrasi Payment Gateway\nPublishing ke App Store & Play Store\nMaintenance & Update Berkala"},{"image":{"url":"https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop","id":""},"icon":"🎨","name":"UI/UX Design","detail":"Desain antarmuka yang intuitif dan pengalaman pengguna yang luar biasa untuk produk digital Anda.","tag":"Figma · Adobe XD · Prototyping","modal_desc":"Desain bukan hanya soal tampilan, tapi bagaimana pengguna berinteraksi dengan produk Anda. Tim desainer kami menggunakan pendekatan user-centered design untuk menciptakan pengalaman digital yang intuitif, menarik, dan meningkatkan konversi.","modal_features":"User Research & Persona Development\nWireframing & Information Architecture\nHigh-Fidelity UI Design\nInteractive Prototyping\nUsability Testing\nDesign System & Style Guide\nMobile-First Responsive Design"},{"image":{"url":"https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop","id":""},"icon":"📊","name":"Digital Marketing","detail":"Strategi pemasaran digital terintegrasi untuk meningkatkan brand awareness dan konversi bisnis Anda.","tag":"SEO · SEM · Social Media","modal_desc":"Strategi pemasaran digital yang terukur dan berorientasi hasil. Kami membantu meningkatkan visibilitas online, menjangkau audience yang tepat, dan mengoptimalkan konversi untuk ROI yang maksimal.","modal_features":"Search Engine Optimization (SEO)\nSearch Engine Marketing (SEM/Google Ads)\nSocial Media Marketing & Management\nContent Marketing Strategy\nEmail Marketing & Automation\nAnalytics & Performance Reporting\nConversion Rate Optimization (CRO)"},{"image":{"url":"https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&h=400&fit=crop","id":""},"icon":"🎬","name":"Produksi Konten","detail":"Video, foto, dan konten kreatif berkualitas tinggi yang merepresentasikan brand Anda secara profesional.","tag":"Video · Photography · Copywriting","modal_desc":"Konten berkualitas adalah kunci komunikasi brand yang efektif. Tim kreatif kami menghasilkan video, foto, dan copywriting yang profesional untuk memperkuat identitas brand dan engagement audiens Anda.","modal_features":"Video Production (Corporate, Product, Tutorial)\nProfessional Photography\nMotion Graphics & Animation\nCopywriting & Content Strategy\nSocial Media Content Creation\nBrand Storytelling\nPodcast & Audio Production"},{"image":{"url":"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop","id":""},"icon":"🤖","name":"Solusi AI","detail":"Implementasi kecerdasan buatan untuk otomasi bisnis, chatbot cerdas, dan analisis data prediktif.","tag":"ChatGPT · Machine Learning · NLP","modal_desc":"Manfaatkan kekuatan kecerdasan buatan untuk mengoptimalkan operasional bisnis Anda. Dari chatbot cerdas hingga analisis prediktif, kami membantu Anda memanfaatkan teknologi AI terkini untuk keunggulan kompetitif.","modal_features":"AI Chatbot & Virtual Assistant\nMachine Learning Model Development\nNatural Language Processing (NLP)\nComputer Vision Solutions\nPredictive Analytics & Data Mining\nProcess Automation (RPA)\nAI Integration to Existing Systems"}]},"elements":[]}],"isInner":false}],"isInner":false},{"id":"2d80e16","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"07c57d5","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"042a919","elType":"widget","widgetType":"ckdi_why_us","settings":{"label":"Mengapa Kami","title":"Kepercayaan yang Terbukti","items":[{"icon":"🏆","title":"Tim Berpengalaman","desc":"Developer, designer, dan marketer berpengalaman dengan rekam jejak proyek nasional dan internasional."},{"icon":"⚡","title":"Delivery Tepat Waktu","desc":"Komitmen penuh pada timeline proyek dengan manajemen yang terstruktur dan transparan."},{"icon":"🔒","title":"Keamanan Terjamin","desc":"Standar keamanan tingkat enterprise untuk melindungi data dan aset digital bisnis Anda."},{"icon":"🎯","title":"Solusi Customized","desc":"Setiap proyek dirancang khusus sesuai kebutuhan unik bisnis Anda, bukan template standar."}]},"elements":[]}],"isInner":false}],"isInner":false},{"id":"e88c5d7","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2fe5ef3","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"0853107","elType":"widget","widgetType":"ckdi_portfolio","settings":{"label":"Portofolio","title":"Karya Terbaik Kami","subtitle":"Beberapa proyek unggulan yang telah kami kerjakan untuk klien-klien terpercaya","cards":[{"icon":"🏢","category":"Web Development","name":"Platform E-Commerce Premium","link":{"url":"","is_external":"","nofollow":""}},{"icon":"📱","category":"Mobile App","name":"Aplikasi Manajemen Logistik","link":{"url":"","is_external":"","nofollow":""}},{"icon":"🎨","category":"UI/UX & Branding","name":"Rebranding Perusahaan FMCG","link":{"url":"","is_external":"","nofollow":""}},{"icon":"🤖","category":"AI Solution","name":"Chatbot Customer Service Bank","link":{"url":"","is_external":"","nofollow":""}},{"icon":"📊","category":"Digital Marketing","name":"Kampanye Digital 500% ROI","link":{"url":"","is_external":"","nofollow":""}},{"icon":"🎬","category":"Video Production","name":"Video Korporat Viral 10M Views","link":{"url":"","is_external":"","nofollow":""}}]},"elements":[]}],"isInner":false}],"isInner":false},{"id":"2dca3dd","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"ef39d53","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"ae2f8a2","elType":"widget","widgetType":"ckdi_pricing","settings":{"label":"Harga","title":"Paket Sesuai Kebutuhan","subtitle":"Pilih paket yang paling sesuai dengan skala bisnis dan kebutuhan digital Anda","cards":[{"name":"Starter","amount":"Rp 3 Jt","period":"Mulai dari / proyek","features":"Landing Page Profesional\nDesain Responsif\nWhatsApp Integration\n3 Bulan Support\nHosting Gratis 1 Tahun","featured":"","btn_text":"Pilih Paket","btn_link":{"url":"https://wa.me/6281245213848?text=Halo%20CKDI%2C%20saya%20tertarik%20paket%20Starter","is_external":"yes","nofollow":""}},{"name":"Professional","amount":"Rp 10 Jt","period":"Mulai dari / proyek","features":"Website Multi-Halaman\nCMS + Admin Panel\nSEO Optimization\nIntegrasi Payment Gateway\n6 Bulan Support Premium\nCustom Domain","featured":"yes","badge":"POPULER","btn_text":"Pilih Paket","btn_link":{"url":"https://wa.me/6281245213848?text=Halo%20CKDI%2C%20saya%20tertarik%20paket%20Professional","is_external":"yes","nofollow":""}},{"name":"Enterprise","amount":"Custom","period":"Sesuai kebutuhan","features":"Solusi Enterprise Custom\nSistem ERP / CRM\nIntegrasi AI & Otomasi\nDedicated Team\n12 Bulan Support\nSLA Guarantee","featured":"","btn_text":"Konsultasi Gratis","btn_link":{"url":"https://wa.me/6281245213848?text=Halo%20CKDI%2C%20saya%20butuh%20konsultasi%20Enterprise","is_external":"yes","nofollow":""}}]},"elements":[]}],"isInner":false}],"isInner":false},{"id":"880cd80","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"cf963a1","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"402f4fd","elType":"widget","widgetType":"ckdi_contact","settings":{"label":"Hubungi Kami","title":"Mari Berkolaborasi","subtitle":"Ceritakan kebutuhan digital Anda dan kami siap memberikan solusi terbaik","infos":[{"icon":"🌐","label":"Website","value":"www.ciptakaryadigital.id","link":{"url":"https://www.ciptakaryadigital.id","is_external":"yes","nofollow":""}},{"icon":"📧","label":"Email","value":"info@ciptakaryadigital.id","link":{"url":"mailto:info@ciptakaryadigital.id","is_external":"","nofollow":""}},{"icon":"💬","label":"WhatsApp","value":"+62 812-4521-3848","link":{"url":"https://wa.me/6281245213848","is_external":"yes","nofollow":""}},{"icon":"📍","label":"Lokasi","value":"Indonesia","link":{"url":"","is_external":"","nofollow":""}}],"label_name":"Nama Lengkap","label_email":"Email","label_service":"Layanan yang Diminati","label_message":"Pesan","services_list":"Web Development\nMobile App\nUI/UX Design\nDigital Marketing\nProduksi Konten\nSolusi AI\nKonsultasi Enterprise","btn_text":"Kirim Pesan →"},"elements":[]}],"isInner":false}],"isInner":false}]]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>Layanan</title>
+		<link>https://www.ciptakaryadigital.id/layanan/</link>
+		<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.ciptakaryadigital.id/?page_id=9102</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9102</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-15 08:10:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-15 08:10:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layanan]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key><wp:meta_value><![CDATA[builder]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key><wp:meta_value><![CDATA[wp-page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key><wp:meta_value><![CDATA[3.25.0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[default]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"c608ab3","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"8633efb","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"7a2597d","elType":"widget","widgetType":"ckdi_services","settings":{"label":"Layanan Kami","title":"Solusi Digital untuk Setiap Kebutuhan","subtitle":"Dari konsep hingga eksekusi, kami siap menjadi partner digital terpercaya untuk bisnis Anda","cards":[{"image":{"url":"https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop","id":""},"icon":"🌐","name":"Web Development","detail":"Website responsif & performa tinggi dengan teknologi modern. Dari landing page hingga platform e-commerce kompleks.","tag":"React · Next.js · Laravel","modal_desc":"Kami membangun website dan web application dengan standar enterprise. Setiap proyek dimulai dari riset mendalam, desain arsitektur yang solid, hingga implementasi kode berkualitas tinggi. Kami memastikan website Anda cepat, aman, dan scalable untuk mendukung pertumbuhan bisnis.","modal_features":"Landing Page & Company Profile\nE-Commerce & Marketplace\nSistem Manajemen (CMS/ERP/CRM)\nWeb Application Custom\nAPI Development & Integration\nPerformance Optimization & SEO\nHosting & Maintenance"},{"image":{"url":"https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop","id":""},"icon":"📱","name":"Mobile App","detail":"Aplikasi mobile native & cross-platform untuk iOS dan Android dengan UI/UX yang memukau.","tag":"Flutter · React Native · Swift","modal_desc":"Dari ide hingga launch di App Store dan Google Play. Kami mengembangkan aplikasi mobile dengan performa tinggi dan pengalaman pengguna yang seamless. Baik native maupun cross-platform, kami memastikan aplikasi Anda siap bersaing di pasar.","modal_features":"Aplikasi iOS & Android Native\nCross-Platform (Flutter/React Native)\nUI/UX Mobile Design\nPush Notification & Real-time Features\nIntegrasi Payment Gateway\nPublishing ke App Store & Play Store\nMaintenance & Update Berkala"},{"image":{"url":"https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop","id":""},"icon":"🎨","name":"UI/UX Design","detail":"Desain antarmuka yang intuitif dan pengalaman pengguna yang luar biasa untuk produk digital Anda.","tag":"Figma · Adobe XD · Prototyping","modal_desc":"Desain bukan hanya soal tampilan, tapi bagaimana pengguna berinteraksi dengan produk Anda. Tim desainer kami menggunakan pendekatan user-centered design untuk menciptakan pengalaman digital yang intuitif, menarik, dan meningkatkan konversi.","modal_features":"User Research & Persona Development\nWireframing & Information Architecture\nHigh-Fidelity UI Design\nInteractive Prototyping\nUsability Testing\nDesign System & Style Guide\nMobile-First Responsive Design"},{"image":{"url":"https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop","id":""},"icon":"📊","name":"Digital Marketing","detail":"Strategi pemasaran digital terintegrasi untuk meningkatkan brand awareness dan konversi bisnis Anda.","tag":"SEO · SEM · Social Media","modal_desc":"Strategi pemasaran digital yang terukur dan berorientasi hasil. Kami membantu meningkatkan visibilitas online, menjangkau audience yang tepat, dan mengoptimalkan konversi untuk ROI yang maksimal.","modal_features":"Search Engine Optimization (SEO)\nSearch Engine Marketing (SEM/Google Ads)\nSocial Media Marketing & Management\nContent Marketing Strategy\nEmail Marketing & Automation\nAnalytics & Performance Reporting\nConversion Rate Optimization (CRO)"},{"image":{"url":"https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&h=400&fit=crop","id":""},"icon":"🎬","name":"Produksi Konten","detail":"Video, foto, dan konten kreatif berkualitas tinggi yang merepresentasikan brand Anda secara profesional.","tag":"Video · Photography · Copywriting","modal_desc":"Konten berkualitas adalah kunci komunikasi brand yang efektif. Tim kreatif kami menghasilkan video, foto, dan copywriting yang profesional untuk memperkuat identitas brand dan engagement audiens Anda.","modal_features":"Video Production (Corporate, Product, Tutorial)\nProfessional Photography\nMotion Graphics & Animation\nCopywriting & Content Strategy\nSocial Media Content Creation\nBrand Storytelling\nPodcast & Audio Production"},{"image":{"url":"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop","id":""},"icon":"🤖","name":"Solusi AI","detail":"Implementasi kecerdasan buatan untuk otomasi bisnis, chatbot cerdas, dan analisis data prediktif.","tag":"ChatGPT · Machine Learning · NLP","modal_desc":"Manfaatkan kekuatan kecerdasan buatan untuk mengoptimalkan operasional bisnis Anda. Dari chatbot cerdas hingga analisis prediktif, kami membantu Anda memanfaatkan teknologi AI terkini untuk keunggulan kompetitif.","modal_features":"AI Chatbot & Virtual Assistant\nMachine Learning Model Development\nNatural Language Processing (NLP)\nComputer Vision Solutions\nPredictive Analytics & Data Mining\nProcess Automation (RPA)\nAI Integration to Existing Systems"}]},"elements":[]}],"isInner":false}],"isInner":false}]]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>Tentang Kami</title>
+		<link>https://www.ciptakaryadigital.id/tentang-kami/</link>
+		<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.ciptakaryadigital.id/?page_id=9103</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9103</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-15 08:10:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-15 08:10:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tentang-kami]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key><wp:meta_value><![CDATA[builder]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key><wp:meta_value><![CDATA[wp-page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key><wp:meta_value><![CDATA[3.25.0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[default]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"1111229","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"397b456","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"21e0039","elType":"widget","widgetType":"ckdi_why_us","settings":{"label":"Mengapa Kami","title":"Kepercayaan yang Terbukti","items":[{"icon":"🏆","title":"Tim Berpengalaman","desc":"Developer, designer, dan marketer berpengalaman dengan rekam jejak proyek nasional dan internasional."},{"icon":"⚡","title":"Delivery Tepat Waktu","desc":"Komitmen penuh pada timeline proyek dengan manajemen yang terstruktur dan transparan."},{"icon":"🔒","title":"Keamanan Terjamin","desc":"Standar keamanan tingkat enterprise untuk melindungi data dan aset digital bisnis Anda."},{"icon":"🎯","title":"Solusi Customized","desc":"Setiap proyek dirancang khusus sesuai kebutuhan unik bisnis Anda, bukan template standar."}]},"elements":[]}],"isInner":false}],"isInner":false}]]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>Portofolio</title>
+		<link>https://www.ciptakaryadigital.id/portofolio/</link>
+		<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.ciptakaryadigital.id/?page_id=9104</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9104</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-15 08:10:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-15 08:10:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[portofolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key><wp:meta_value><![CDATA[builder]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key><wp:meta_value><![CDATA[wp-page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key><wp:meta_value><![CDATA[3.25.0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[default]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"e65ef06","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"33e4a88","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"f933f17","elType":"widget","widgetType":"ckdi_portfolio","settings":{"label":"Portofolio","title":"Karya Terbaik Kami","subtitle":"Beberapa proyek unggulan yang telah kami kerjakan untuk klien-klien terpercaya","cards":[{"icon":"🏢","category":"Web Development","name":"Platform E-Commerce Premium","link":{"url":"","is_external":"","nofollow":""}},{"icon":"📱","category":"Mobile App","name":"Aplikasi Manajemen Logistik","link":{"url":"","is_external":"","nofollow":""}},{"icon":"🎨","category":"UI/UX & Branding","name":"Rebranding Perusahaan FMCG","link":{"url":"","is_external":"","nofollow":""}},{"icon":"🤖","category":"AI Solution","name":"Chatbot Customer Service Bank","link":{"url":"","is_external":"","nofollow":""}},{"icon":"📊","category":"Digital Marketing","name":"Kampanye Digital 500% ROI","link":{"url":"","is_external":"","nofollow":""}},{"icon":"🎬","category":"Video Production","name":"Video Korporat Viral 10M Views","link":{"url":"","is_external":"","nofollow":""}}]},"elements":[]}],"isInner":false}],"isInner":false}]]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>Harga</title>
+		<link>https://www.ciptakaryadigital.id/harga/</link>
+		<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.ciptakaryadigital.id/?page_id=9105</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9105</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-15 08:10:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-15 08:10:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[harga]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key><wp:meta_value><![CDATA[builder]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key><wp:meta_value><![CDATA[wp-page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key><wp:meta_value><![CDATA[3.25.0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[default]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"30bf42a","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1c60864","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"8a5b8aa","elType":"widget","widgetType":"ckdi_pricing","settings":{"label":"Harga","title":"Paket Sesuai Kebutuhan","subtitle":"Pilih paket yang paling sesuai dengan skala bisnis dan kebutuhan digital Anda","cards":[{"name":"Starter","amount":"Rp 3 Jt","period":"Mulai dari / proyek","features":"Landing Page Profesional\nDesain Responsif\nWhatsApp Integration\n3 Bulan Support\nHosting Gratis 1 Tahun","featured":"","btn_text":"Pilih Paket","btn_link":{"url":"https://wa.me/6281245213848?text=Halo%20CKDI%2C%20saya%20tertarik%20paket%20Starter","is_external":"yes","nofollow":""}},{"name":"Professional","amount":"Rp 10 Jt","period":"Mulai dari / proyek","features":"Website Multi-Halaman\nCMS + Admin Panel\nSEO Optimization\nIntegrasi Payment Gateway\n6 Bulan Support Premium\nCustom Domain","featured":"yes","badge":"POPULER","btn_text":"Pilih Paket","btn_link":{"url":"https://wa.me/6281245213848?text=Halo%20CKDI%2C%20saya%20tertarik%20paket%20Professional","is_external":"yes","nofollow":""}},{"name":"Enterprise","amount":"Custom","period":"Sesuai kebutuhan","features":"Solusi Enterprise Custom\nSistem ERP / CRM\nIntegrasi AI & Otomasi\nDedicated Team\n12 Bulan Support\nSLA Guarantee","featured":"","btn_text":"Konsultasi Gratis","btn_link":{"url":"https://wa.me/6281245213848?text=Halo%20CKDI%2C%20saya%20butuh%20konsultasi%20Enterprise","is_external":"yes","nofollow":""}}]},"elements":[]}],"isInner":false}],"isInner":false}]]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>Kontak</title>
+		<link>https://www.ciptakaryadigital.id/kontak/</link>
+		<pubDate>Thu, 15 Oct 2026 08:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.ciptakaryadigital.id/?page_id=9106</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9106</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-15 08:10:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-15 08:10:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kontak]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key><wp:meta_value><![CDATA[builder]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key><wp:meta_value><![CDATA[wp-page]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key><wp:meta_value><![CDATA[3.25.0]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[default]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"d6940a6","elType":"section","settings":{"layout":"full_width","gap":"no","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"98a8a90","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"fc56fba","elType":"widget","widgetType":"ckdi_contact","settings":{"label":"Hubungi Kami","title":"Mari Berkolaborasi","subtitle":"Ceritakan kebutuhan digital Anda dan kami siap memberikan solusi terbaik","infos":[{"icon":"🌐","label":"Website","value":"www.ciptakaryadigital.id","link":{"url":"https://www.ciptakaryadigital.id","is_external":"yes","nofollow":""}},{"icon":"📧","label":"Email","value":"info@ciptakaryadigital.id","link":{"url":"mailto:info@ciptakaryadigital.id","is_external":"","nofollow":""}},{"icon":"💬","label":"WhatsApp","value":"+62 812-4521-3848","link":{"url":"https://wa.me/6281245213848","is_external":"yes","nofollow":""}},{"icon":"📍","label":"Lokasi","value":"Indonesia","link":{"url":"","is_external":"","nofollow":""}}],"label_name":"Nama Lengkap","label_email":"Email","label_service":"Layanan yang Diminati","label_message":"Pesan","services_list":"Web Development\nMobile App\nUI/UX Design\nDigital Marketing\nProduksi Konten\nSolusi AI\nKonsultasi Enterprise","btn_text":"Kirim Pesan →"},"elements":[]}],"isInner":false}],"isInner":false}]]]></wp:meta_value></wp:postmeta>
+	</item>
+</channel>
+</rss>
